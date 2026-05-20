@@ -287,10 +287,6 @@ Repository Structure
 ├── scripts/
 │   └── hr_attrition_prediction.R
 │
-├── outputs/
-│   ├── plots/
-│   ├── confusion_matrices/
-│   └── roc_curves/
 │
 ├── report/
 │   └── HR_Employee_Attrition_Report.pdf
